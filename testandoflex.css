@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    display: flex;
+    background-color: blue;
+    gap: 10px;
+    height: 600px;
+    /* flex-flow: row wrap-reverse; */
+}
+.item1{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
