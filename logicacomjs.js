@@ -81,4 +81,20 @@ daysOfWeek.shift()
 daysOfWeek.sort()
 daysOfWeek.reverse()
 alert("Atualmente os alunos da escola são: "+daysOfWeek)
-alert(indexOfWeek.indexOf("Artur"))*/
+alert(indexOfWeek.indexOf("Artur"))
+
+
+function saudar(){
+    alert ("Desejo uma boa navegação no nosso site!")
+}
+saudar()
+
+//Com Return e Parâmetro
+
+function dobrarNumero(numero){
+    futurn numero + 2
+}
+let resultado = dobrarNumero(25)
+alert (resultado)*/
+//Com Parâmetro
+
